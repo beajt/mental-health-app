@@ -12,8 +12,6 @@ function InPerson() {
         <li>
           *Registration closed 1h 30 mins prior to the end of service hours.
         </li>
-        <li></li>
-        <li></li>
       </ul>
       <h3>Yorktown Family Services (Ages up to 29) </h3>
       <p>Number - 123-4567</p>
